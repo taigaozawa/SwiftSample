@@ -1,1 +1,3 @@
-This is a sample project of Swift
+# SwiftSample
+
+This is a sample project of Swift.
